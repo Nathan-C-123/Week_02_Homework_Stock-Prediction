@@ -1,2 +1,2 @@
 # Week_02_Homework_Stock-Prediction
-Predicting stock prices with 3 different regression models
+Predicting stock prices / stock price error vaules with 3 different regression models
